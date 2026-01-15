@@ -1,3 +1,12 @@
+---
+title: 关于我的博客
+published: 2025-12-25
+description: 个人介绍
+tags: [个人介绍]
+category: 关于我
+draft: false
+---
+
 # 关于我 👋
 
 你好，我是 **Leven**。熟人会叫我 **ovo**，一个在代码与生活缝隙中寻找答案的记录者。
